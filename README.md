@@ -1,5 +1,3 @@
-# vanilla-camunda-template
+# camunda7-groovy-example
 
-This is a template repository to create a plain vanilla CAMUNDA Platform EE Spring Boot project.
-
-This is the best generic starting point!  - Change my mind :)
+This example illustrates how to use groovy in the Camunda 7 Spring Boot distribution.
